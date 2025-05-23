@@ -1,9 +1,4 @@
 # VR-Room
-Claro, aquí tienes una **descripción básica del proyecto "VR Room"**:
-
----
-
-### **VR Room – Descripción básica del videojuego**
 
 **VR Room** es un proyecto introductorio al desarrollo de experiencias en realidad virtual (VR) utilizando **Unity** y tecnologías compatibles como **OpenXR** o SDKs de dispositivos VR (Oculus, HTC Vive, etc.). El objetivo principal es familiarizarse con la interacción en un entorno 3D inmersivo usando controles de realidad virtual.
 
